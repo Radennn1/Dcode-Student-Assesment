@@ -10,11 +10,11 @@ The application includes a RESTful API to manage student data and a **web-based 
 ## ✨ Features
 
 ### 🧠 Backend (RESTful API)
-- ✅ **List Students** — `GET /api/students`
-- ✅ **Get Single Student** — `GET /api/students/{id}`
-- ✅ **Add New Student** — `POST /api/students`
-- ✅ **Update Student** — `PUT /api/students/{id}`
-- ✅ **Delete Student** — `DELETE /api/students/{id}`
+- ✅ **List Students** — `GET /students`
+- ✅ **Get Single Student** — `GET /students/{id}`
+- ✅ **Add New Student** — `POST /students`
+- ✅ **Update Student** — `PUT /students/{id}`
+- ✅ **Delete Student** — `DELETE /students/{id}`
 - ✅ **Input Validation** — Robust validation on store & update requests
 
 ### 🖥️ Frontend (Admin Panel)
