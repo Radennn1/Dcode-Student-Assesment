@@ -5,8 +5,6 @@ This project is an implementation of the technical task for the **Back-End Devel
 
 The application includes a RESTful API to manage student data and a **web-based admin panel** to visually interact with the API.
 
-> 💡 You can add a preview screenshot or GIF of the Admin Panel after uploading it to services like Imgur or Giphy.
-
 ---
 
 ## ✨ Features
